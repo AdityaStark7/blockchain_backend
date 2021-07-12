@@ -1,0 +1,4 @@
+pycryptodomex>=3.3
+requests>=2.4
+cbor2
+aiohttp
