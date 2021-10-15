@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <img className="logo" src={logo} alt="application-logo" />
-      <h3>Welcome to pychain</h3>
+      <h3><strong> Welcome to Scissors</strong></h3>
       <br />
       <Link to="/blockchain">Blockchain</Link>
       <Link to="/conduct-transaction">Conduct a Transaction</Link>
